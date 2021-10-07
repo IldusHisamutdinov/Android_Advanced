@@ -1,2 +1,2 @@
 # Android_Advanced
-Здесь тоько Hello world
+Здесь только Hello world
